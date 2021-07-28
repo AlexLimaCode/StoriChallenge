@@ -1,0 +1,5 @@
+Identifiquemos como resolver el problema.
+
+Sabemos que una isla se puede componer por 1 o mas edificios.
+Podemos determinar que podrian existir edificios que no se reflejen en la sombra, sin embargo el codigo logra identificar unicamente los puntos mas izquierdos y altos de los diagramas, como si hicieramos una busqueda en un arbol binario con el metodo del mas izquierdo
+Determinemos que el hecho de que un edificio sea mas alto que otro podria hacer que se corte el punto mas izquierdo en algunos casos.
